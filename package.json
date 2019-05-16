@@ -1,0 +1,31 @@
+{
+  "name": "dsjs",
+  "version": "1.0.0",
+  "description": "Data structures from scratch (JS Edition).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiralles/dsjs.git"
+  },
+  "keywords": [
+    "data",
+    "structures"
+  ],
+  "author": "amiralles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amiralles/dsjs/issues"
+  },
+  "homepage": "https://github.com/amiralles/dsjs#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "mocha": "^6.0.2"
+  }
+}
