@@ -4,7 +4,7 @@ This repository contains complete code examples and unit tests from "Data Struct
 
 <div style="width:100%;text-align:center;">
 <a href="https://www.amazon.com/dp/B07S2C1SZ2">
-  <img src="https://amiralles.com.ar/book_js.png"></img>
+  <img src="https://alemiralles.dev/book_js.png"></img>
 </a>
 </div>
 
